@@ -1,0 +1,7 @@
+path\Test>pytest -v --alluredir=./allure_sag
+
+
+SeleProject\Test>allure serve ./allure_sag
+
+
+
